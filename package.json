@@ -1,0 +1,12 @@
+{
+  "name": "render-recurring-job",
+  "version": "1.0.0",
+  "main": "scheduler.js",
+  "scripts": {
+    "start": "node scheduler.js"
+  },
+  "dependencies": {
+    "mysql2": "^3.3.1",
+    "node-cron": "^3.0.2"
+  }
+}
